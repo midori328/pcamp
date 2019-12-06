@@ -1,0 +1,54 @@
+.header-logo{
+    color:pink;
+    font-size:50px;
+    padding:20px 10px;
+
+  }
+  .image1{
+    width: 650px;
+    height: 350px;
+  }
+  .ul{
+    list-style-type: none;
+    list-style: none;
+    text-align: center;
+    padding: 50px;
+  }
+  .li{
+    list-style: none;
+    padding: 50px;
+    text-align: center;
+    font-size: 20px;
+  }
+  .h1 {
+    color: black;
+    font-size:20px;
+  }
+  .header-list{
+    color: black;
+    font-size:30px;
+    list-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  
+  }
+  head,body,main{
+    text-align: center;
+  }
+  .flex-list{
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+    
+
+/*   
+    margin:  20px;
+    padding: 15px;
+    width: 500px;
+    background-color: #FFDDFF;
+    border: 1px solid #FFDDFF;
+  } */
